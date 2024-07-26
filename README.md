@@ -4,5 +4,5 @@ A side project of pomodoro website
 
 Authors:
 
-James Jaroszlaw @ github.com/jmsjrz
+James Jarosz @ github.com/jmsjrz
 Omer Ozturk github.com/diesos
