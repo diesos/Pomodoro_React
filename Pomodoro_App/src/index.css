@@ -47,7 +47,8 @@ button {
   font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: 700;
-  height: 40px;
+  min-width: 5vw;
+  height: 6vh;
   line-height: 20px;
   list-style: none;
   outline: none;
@@ -98,5 +99,5 @@ button:focus {
 .container {
   background-color: #3f3c3c;
   border-radius: 20px;
-  padding: 30px;
+  padding: 2vh;
 }

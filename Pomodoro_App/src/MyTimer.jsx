@@ -1,6 +1,6 @@
 import { useTimer } from "react-timer-hook";
 import {useState} from "react"
-import Alarm from "../public/alarm.mp3"
+import Alarm from "/alarm.mp3"
 
 
 export default function MyTimer({ expiryTimestamp }) {
